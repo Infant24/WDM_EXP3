@@ -103,6 +103,8 @@ else:
 ```
 ### Output:
 
+<img width="602" height="290" alt="image" src="https://github.com/user-attachments/assets/72986f20-f9e8-4b7d-a749-a4c7a9394df1" />
+
 ### Visualization:
 ```python
 import matplotlib.pyplot as plt
@@ -131,5 +133,10 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
 
+<img width="857" height="509" alt="image" src="https://github.com/user-attachments/assets/c3f40b1d-ec34-47ac-92e6-5723a3076854" />
+
+<img width="823" height="502" alt="image" src="https://github.com/user-attachments/assets/7c26334f-a7eb-496c-a728-fbab3f7264ca" />
 
 ### Result:
+
+The GSP algorithm was successfully implemented in Python to identify frequent sequential patterns from the given datasets.
